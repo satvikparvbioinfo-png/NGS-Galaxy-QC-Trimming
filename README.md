@@ -243,7 +243,7 @@ TRAILING:20
 B.Tech Bioinformatics
 Jaypee University of Information Technology (JUIT), Solan, Himachal Pradesh
 
-Summer Internship • 2026
+Summer Project • 2026
 
 ---
 
