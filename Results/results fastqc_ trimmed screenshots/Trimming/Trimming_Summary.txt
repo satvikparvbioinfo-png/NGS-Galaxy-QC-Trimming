@@ -1,0 +1,22 @@
+Trimming Summary
+
+Trimmomatic Summary
+
+Run Statistics
+
+-   Input Read Pairs: 2,918,654
+-   Both Surviving: 2,918,654 (100.00%)
+-   Forward Only Surviving: 0 (0.00%)
+-   Reverse Only Surviving: 0 (0.00%)
+-   Dropped: 0 (0.00%)
+-   Status: Completed successfully
+
+------------------------------------------------------------------------
+
+Interpretation
+
+All read pairs survived trimming with quality ≥ Q20 at the 3’ end.
+
+No reads were dropped, indicating that the tail quality remained
+consistently above the selected quality threshold throughout the
+dataset.
