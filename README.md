@@ -75,10 +75,10 @@ Raw Paired-End FASTQ
  Final Quality Assessment
 ```
 
-### Workflow Diagram
+### Workflow Diagram 
 
 <p align="center">
-  <img src="assets/workflow.png" width="750">
+  <img src="Assests/workflow.png" width="750">
 </p>
 
 ---
@@ -102,9 +102,9 @@ Raw Paired-End FASTQ
 ## Before vs After Trimming
 
 <p align="center">
-<img src="results/raw_fastqc/screenshots/02_per_base_quality_raw.png" width="46%">
+<img src="Results/results fastqc_raw screenshots/02_per_base_quality_raw.png" width="46%">
 &nbsp;&nbsp;
-<img src="results/trimmed_fastqc/screenshots/08_per_base_quality_trimmed.png" width="46%">
+<img src="Results/results fastqc_ trimmed screenshots/Results FastQC_trimmed screenshots/Per Base Sequence Quality_Trimmed.png" width="46%">
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ Raw Paired-End FASTQ
 </p>
 
 > **Observation:**
-> The quality profile remained essentially unchanged after trimming, indicating that the original sequencing data already possessed consistently high-quality bases.
+> The quality profile remained essentially unchanged after trimming, indicating that the original sequencing data already possessed consistently high-quality bases. 
 
 ---
 
@@ -243,7 +243,7 @@ TRAILING:20
 B.Tech Bioinformatics
 Jaypee University of Information Technology (JUIT), Solan, Himachal Pradesh
 
-Summer Internship • 2026
+Summer Project • 2026
 
 ---
 
